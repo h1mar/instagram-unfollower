@@ -1,4 +1,4 @@
 # Instagram Unfollower
-Unfollows batch of instagram users at once.
+Made using Puppeteer & Nodejs
 
 Replace 'USERNAME' & 'PASSWORD' with your username and password.
